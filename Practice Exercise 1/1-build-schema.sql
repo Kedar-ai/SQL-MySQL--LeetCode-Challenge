@@ -1,5 +1,4 @@
 /*The Computer Store*/
-use sql_exercise;
 
 create table Manufacturers(
 Code int primary key,
