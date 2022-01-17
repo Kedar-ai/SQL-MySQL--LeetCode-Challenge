@@ -1,4 +1,3 @@
--- https://en.wikibooks.org/wiki/SQL_Exercises/The_computer_store
 /*The Computer Store*/
 use sql_exercise;
 
