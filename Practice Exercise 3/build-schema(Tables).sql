@@ -75,9 +75,9 @@ CREATE TABLE IF NOT EXISTS `northwind`.`suppliers` (
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb4;
 
--- -----------------------------------------------------
+-- ----------------------------------------------------
 -- Table `northwind`.`categories`
--- -----------------------------------------------------
+-- ----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `northwind`.`categories` (
 	`category_id` SMALLINT NOT NULL,
     `category_name` VARCHAR(15) NOT NULL,
